@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanchitkale/Sanchitkale/main/ai-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sanchit72/Sanchit72/main/ai-banner.png" width="100%" />
 </p>
+
 
 # 👋 Hi there, I'm Sanchit Kale  
 🚀 Python & Generative AI Developer | LLMs • RAG • LangChain • Neo4j
