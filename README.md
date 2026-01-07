@@ -1,24 +1,35 @@
-# 👋 Hello, I'm Sanchit!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanchitkale/Sanchitkale/main/ai-banner.png" width="100%" />
+</p>
 
-Welcome to my GitHub profile! I'm passionate about coding, building intelligent systems, and shaping the future through technology.
+# 👋 Hi there, I'm Sanchit Kale  
+🚀 Python & Generative AI Developer | LLMs • RAG • LangChain • Neo4j
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sanchitkale&color=blue&style=flat-square)
+
+---
+
+## 🧠 About Me
+
+I’m a **Python & Generative AI Developer** passionate about building intelligent systems using  
+**Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain, and AI-driven automation**.
+
+- 🔭 Working on **RAG-based AI systems** using FAISS, LangChain & Neo4j  
+- 🌱 Learning **Agentic AI (LangGraph, Neo4j, Advanced AI concepts)**  
+- 🎯 Interested in **Python automation frameworks & scalable AI systems**  
+- 💡 Exploring **Flask & FastAPI with React UIs, Vector Databases & AI pipelines**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
